@@ -1,0 +1,30 @@
+
+
+.add-food-details-section{
+  margin-top:6%;
+  margin-bottom:5%;
+
+  text-align: center;
+  padding:5px;
+  background-color: rgb(210, 227, 255);
+  border: 1px solid grey;
+ width:500px;
+ margin-left:auto;
+ margin-right:auto;
+  align-items: center;
+  border-radius: 5px;
+  
+}
+.add-food-details-section input{
+  width:450px;
+}
+
+.master-form-group{
+  margin:10px;
+  padding:5px;
+}
+
+.text-danger{
+  text-align: left;
+}
+

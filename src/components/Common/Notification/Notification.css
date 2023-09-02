@@ -1,0 +1,21 @@
+.alert{   
+    
+  z-index: 2;
+  position: absolute;
+  top:30px;
+  left:35%;
+  width:450px; 
+  -webkit-animation: fadeinout 2s linear forwards;
+  animation: fadeinout 2s linear forwards;
+  opacity: 0;
+}
+
+
+
+@-webkit-keyframes fadeinout {
+  50% { opacity: 1; }
+}
+
+@keyframes fadeinout {
+  50% { opacity: 1; }
+}

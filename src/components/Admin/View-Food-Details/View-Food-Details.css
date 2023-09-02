@@ -1,0 +1,18 @@
+
+
+.food-details-section{
+  margin:5% auto;
+  width:95%;
+  
+}
+
+table tr td img{
+  height:100px;
+  width:100px;
+}
+
+#updateModal .modal-content{
+  width:750px;
+  margin:0 auto; 
+  padding:20px;    
+}
